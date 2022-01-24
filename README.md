@@ -1,4 +1,4 @@
-<h4 align="center">CS undergrad || 3 Years work-ex || Data Scientist || Coder || Developer || Designer</h4> 
+<h4 align="center">CS undergrad || 2 Years work-ex || Data Engineer || Coder || Developer </h4> 
 
 --- 
 
@@ -13,10 +13,6 @@
  ---
   
 <div align="center">
-  <a href="https://github.com/karan36k">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarthakarora1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakarora1&layout=compact&langs_count=7&theme=dark"/>
-
    
   ![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
 
